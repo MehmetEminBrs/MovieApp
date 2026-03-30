@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "Name": "Christian Bale",
+    "Description": "Christian Bale, 30 Ocak 1974 do\u011Fumlu \u0130ngiliz akt\u00F6rd\u00FCr. Rol\u00FCne tamamen b\u00FCr\u00FCnmek i\u00E7in fiziksel de\u011Fi\u015Fimlere gitmesiyle tan\u0131n\u0131r. The Machinist ve American Psycho gibi yap\u0131mlarda g\u00F6sterdi\u011Fi performanslarla b\u00FCy\u00FCk be\u011Feni toplam\u0131\u015Ft\u0131r. 2011 y\u0131l\u0131nda Oscar kazanm\u0131\u015Ft\u0131r.",
+    "ImageUrl": "/uploads/9504e366-cf9e-4ac7-b587-9e6d846334bf_christianbale.jpg"
+  },
+  {
+    "Id": 2,
+    "Name": "Heath Ledger",
+    "Description": "Heath Ledger, 4 Nisan 1979 do\u011Fumlu Avustralyal\u0131 akt\u00F6rd\u00FCr. Kariyeri boyunca farkl\u0131 t\u00FCrlerde \u00F6nemli roller \u00FCstlenmi\u015Ftir. Brokeback Mountain ile b\u00FCy\u00FCk takdir toplam\u0131\u015F, ancak en unutulmaz performans\u0131n\u0131 Joker rol\u00FCyle sergilemi\u015Ftir. Bu rol\u00FC sayesinde \u00F6l\u00FCm\u00FCnden sonra En \u0130yi Yard\u0131mc\u0131 Erkek Oyuncu Oscar\u2019\u0131n\u0131 kazanm\u0131\u015Ft\u0131r.",
+    "ImageUrl": "/uploads/4581b0a1-3144-4d1e-b299-983a3031f805_heathledger.jpg"
+  },
+  {
+    "Id": 3,
+    "Name": "Aaron Eckhart",
+    "Description": "Aaron Eckhart, 12 Mart 1968 do\u011Fumlu Amerikal\u0131 akt\u00F6rd\u00FCr. \u00D6zellikle dramatik rollerdeki ba\u015Far\u0131s\u0131yla bilinir. Kariyeri boyunca bir\u00E7ok farkl\u0131 karakteri ba\u015Far\u0131yla canland\u0131rm\u0131\u015F ve Hollywood\u2019da sayg\u0131n bir yer edinmi\u015Ftir.",
+    "ImageUrl": "/uploads/e0efdb31-8335-4ba3-83ce-51b6d7edbc97_aaroneckhart.jpg"
+  },
+  {
+    "Id": 4,
+    "Name": "Matthew McConaughey",
+    "Description": "Matthew McConaughey, 4 Kas\u0131m 1969 do\u011Fumlu Amerikal\u0131 akt\u00F6rd\u00FCr. Kariyerine romantik komedi filmleriyle ba\u015Flam\u0131\u015F, daha sonra dramatik rollere y\u00F6nelerek b\u00FCy\u00FCk ba\u015Far\u0131 elde etmi\u015Ftir. Dallas Buyers Club filmindeki performans\u0131yla En \u0130yi Erkek Oyuncu Oscar\u2019\u0131n\u0131 kazanm\u0131\u015Ft\u0131r.",
+    "ImageUrl": "/uploads/a9dc8114-ffbc-4c65-933e-03c1cf474fbc_matthewmcconaughey.jpg"
+  },
+  {
+    "Id": 5,
+    "Name": "Anne Hathaway",
+    "Description": "Anne Hathaway, 12 Kas\u0131m 1982 do\u011Fumlu Amerikal\u0131 aktristir. Les Mis\u00E9rables filmindeki performans\u0131yla Oscar kazanm\u0131\u015Ft\u0131r. Hem dramatik hem de m\u00FCzikal rollerdeki ba\u015Far\u0131s\u0131yla geni\u015F bir hayran kitlesine sahiptir.",
+    "ImageUrl": "/uploads/58e66305-d480-489b-8fd5-e21bc5968945_annehathaway.jpg"
+  },
+  {
+    "Id": 6,
+    "Name": "Jessica Chastain",
+    "Description": "Jessica Chastain, 24 Mart 1977 do\u011Fumlu Amerikal\u0131 oyuncudur. G\u00FC\u00E7l\u00FC kad\u0131n karakterleri canland\u0131rmas\u0131yla tan\u0131n\u0131r. Zero Dark Thirty gibi yap\u0131mlarda sergiledi\u011Fi performanslarla b\u00FCy\u00FCk be\u011Feni toplam\u0131\u015Ft\u0131r.",
+    "ImageUrl": "/uploads/8cf55b5b-b244-48ef-9083-77ccadaedc92_jessicachastain.jpg"
+  },
+  {
+    "Id": 7,
+    "Name": "Leonardo DiCaprio",
+    "Description": "Leonardo DiCaprio, 11 Kas\u0131m 1974 do\u011Fumlu Amerikal\u0131 akt\u00F6rd\u00FCr. Gen\u00E7 ya\u015Fta ba\u015Flad\u0131\u011F\u0131 kariyerinde k\u0131sa s\u00FCrede Hollywood\u2019un en \u00F6nemli isimlerinden biri haline gelmi\u015Ftir. Titanic ile d\u00FCnya \u00E7ap\u0131nda b\u00FCy\u00FCk bir \u00FCne kavu\u015Fmu\u015F, ard\u0131ndan Inception ve The Revenant gibi yap\u0131mlarla ba\u015Far\u0131s\u0131n\u0131 s\u00FCrd\u00FCrm\u00FC\u015Ft\u00FCr. The Revenant filmindeki performans\u0131yla En \u0130yi Erkek Oyuncu Oscar\u2019\u0131n\u0131 kazanm\u0131\u015Ft\u0131r.",
+    "ImageUrl": "/uploads/1f6532e4-5aa2-4879-a844-e4a661158f7e_leonardodicaprio.jpg"
+  },
+  {
+    "Id": 8,
+    "Name": "Kate Winslet",
+    "Description": "Kate Winslet, 5 Ekim 1975 do\u011Fumlu \u0130ngiliz aktristir. Duygusal derinli\u011Fi y\u00FCksek performanslar\u0131yla tan\u0131n\u0131r. Titanic ile b\u00FCy\u00FCk \u00E7\u0131k\u0131\u015F yapm\u0131\u015F, kariyerinde The Reader filmiyle Oscar kazanm\u0131\u015Ft\u0131r. Farkl\u0131 t\u00FCrlerdeki rolleri ba\u015Far\u0131yla canland\u0131rabilen \u00E7ok y\u00F6nl\u00FC bir oyuncudur.",
+    "ImageUrl": "/uploads/398c35a3-13d1-48f1-a362-39ea56b2ad97_katewinslet.jpg"
+  },
+  {
+    "Id": 9,
+    "Name": "Billy Zane",
+    "Description": "Billy Zane, 24 \u015Eubat 1966 do\u011Fumlu Amerikal\u0131 akt\u00F6rd\u00FCr..Titanic filmindeki performans\u0131yla geni\u015F kitleler taraf\u0131ndan tan\u0131nm\u0131\u015Ft\u0131r ve kariyeri boyunca bir\u00E7ok film ve televizyon projesinde yer alm\u0131\u015Ft\u0131r.",
+    "ImageUrl": "/uploads/b527ebc3-09cb-4b5d-926f-c0009bddf708_billyzane.jpg"
+  }
+]

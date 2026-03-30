@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "Title": "The Dark Knight",
+    "Description": "Gotham \u015Fehri, su\u00E7la m\u00FCcadelede yeni bir d\u00F6neme girerken Batman, Te\u011Fmen Gordon ve Savc\u0131 Harvey Dent birlikte organize su\u00E7 \u00F6rg\u00FCtlerini \u00E7\u00F6kertmeye \u00E7al\u0131\u015F\u0131r. Ancak ortaya \u00E7\u0131kan Joker, kaos yaratmay\u0131 ama\u00E7layan ve hi\u00E7bir kurala ba\u011Fl\u0131 olmayan bir d\u00FC\u015Fmand\u0131r. Film, sadece bir s\u00FCper kahraman hikayesi de\u011Fil; ayn\u0131 zamanda adalet, ahlak ve d\u00FCzen ile kaos aras\u0131ndaki ince \u00E7izgiyi sorgulayan karanl\u0131k bir anlat\u0131d\u0131r. Joker\u2019in yaratt\u0131\u011F\u0131 psikolojik bask\u0131, Batman\u2019in s\u0131n\u0131rlar\u0131n\u0131 zorlar ve karakterlerin etik se\u00E7imlerini \u00F6n plana \u00E7\u0131kar\u0131r.",
+    "ReleaseYear": 2008,
+    "ImdbRating": 90,
+    "ImageUrl": "/uploads/3d2521c1-47bd-4b75-a8ad-75b86d5094af_thedarkknight.jpg",
+    "Actors": [
+      {
+        "ActorId": 1,
+        "CharacterName": "Batman"
+      },
+      {
+        "ActorId": 2,
+        "CharacterName": "Joker"
+      },
+      {
+        "ActorId": 3,
+        "CharacterName": "Harvey Dent"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Title": "Interstellar",
+    "Description": "D\u00FCnya \u00FCzerindeki ya\u015Fam, iklim de\u011Fi\u015Fiklikleri ve kaynaklar\u0131n t\u00FCkenmesi nedeniyle yok olma tehlikesiyle kar\u015F\u0131 kar\u015F\u0131yad\u0131r. Eski bir NASA pilotu olan Cooper, insanl\u0131k i\u00E7in yeni bir ya\u015Fam alan\u0131 bulmak amac\u0131yla bir grup bilim insan\u0131yla birlikte uzay\u0131n derinliklerine do\u011Fru tehlikeli bir yolculu\u011Fa \u00E7\u0131kar. Film, kara delikler, zaman geni\u015Flemesi ve uzay yolculu\u011Fu gibi bilimsel kavramlar\u0131 i\u015Flerken ayn\u0131 zamanda insan ili\u015Fkileri, fedakarl\u0131k ve sevgi temalar\u0131n\u0131 da g\u00FC\u00E7l\u00FC bir \u015Fekilde ele al\u0131r.",
+    "ReleaseYear": 2014,
+    "ImdbRating": 86,
+    "ImageUrl": "/uploads/52e3ecba-32c1-4468-94a8-aa01e9c73f85_\u0131nterstellar.jpg",
+    "Actors": [
+      {
+        "ActorId": 4,
+        "CharacterName": "Cooper"
+      },
+      {
+        "ActorId": 5,
+        "CharacterName": "Brand"
+      },
+      {
+        "ActorId": 6,
+        "CharacterName": "Murph"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Title": "Titanic",
+    "Description": "Ger\u00E7ek bir tarihi olaya dayanan film, 1912 y\u0131l\u0131nda \u0022batmaz\u0022 olarak bilinen dev yolcu gemisi Titanic\u2019in trajik yolculu\u011Funu konu al\u0131r. Hikaye, farkl\u0131 sosyal s\u0131n\u0131flardan gelen iki gen\u00E7, Jack ve Rose\u2019un gemide tan\u0131\u015F\u0131p aralar\u0131nda geli\u015Fen imkans\u0131z a\u015Fk \u00FCzerinden ilerler. Zengin bir aileden gelen Rose\u2019un bask\u0131c\u0131 hayat\u0131 ile \u00F6zg\u00FCr ruhlu Jack\u2019in ya\u015Fam anlay\u0131\u015F\u0131 \u00E7arp\u0131\u015F\u0131rken, ikili k\u0131sa s\u00FCrede derin bir ba\u011F kurar. Ancak geminin bir buzda\u011F\u0131na \u00E7arpmas\u0131yla ba\u015Flayan felaket, hem onlar\u0131n a\u015Fk\u0131n\u0131 hem de gemideki herkesin kaderini de\u011Fi\u015Ftirir. Film; a\u015Fk, fedakarl\u0131k, s\u0131n\u0131f ayr\u0131m\u0131 ve insan do\u011Fas\u0131n\u0131n kriz an\u0131ndaki tepkilerini etkileyici bir \u015Fekilde i\u015Fler.",
+    "ReleaseYear": 1997,
+    "ImdbRating": 79,
+    "ImageUrl": "/uploads/cb67e3f6-efa4-47c6-90d3-d3826d4df9a2_titanic.jpg",
+    "Actors": [
+      {
+        "ActorId": 7,
+        "CharacterName": "Jack Dawson"
+      },
+      {
+        "ActorId": 8,
+        "CharacterName": "Rose DeWitt Bukater"
+      },
+      {
+        "ActorId": 9,
+        "CharacterName": "Caledon Hockley"
+      }
+    ]
+  }
+]
