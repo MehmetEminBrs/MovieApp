@@ -14,7 +14,10 @@ MovieApp, kullanıcıların filmleri görüntüleyebildiği, arama yapabildiği 
 - Film ekleme / güncelleme / silme (Admin)
 - Aktör ekleme / güncelleme / silme (Admin)
 - Filme ait aktör atama (Admin)
-- Kullanıcı giriş sistemi (JWT token ile)
+- - Kullanıcı giriş sistemi (JWT token ile)
+  - İlk oluşturulan kullanıcı otomatik olarak **Admin** rolüne sahip olur
+  - Sonradan kayıt olan tüm kullanıcılar **User** rolüne sahip olur
+  - Kullanıcı rolü ve giriş bilgileri uygulama memory’sinde saklanır, server restart olduğunda sıfırlanır.
 - Modern ve responsive tasarım
 - Kolay deploy için hazır yapı
 
@@ -47,7 +50,7 @@ REACT_APP_BASE_URL=http://localhost:5xxx
 REACT_APP_API_URL ve REACT_APP_BASE_URL kendi ortamınıza göre ayarlayın.
 ```
 
-MovieApp.API/appsettings.example.json dosyasını kopyalayarak appsettings.json oluşturun ve anahtar atayın:
+MovieApp.API/appsettings.json dosyasına anahtar atayın:
 ```bash
 
 {
@@ -64,6 +67,9 @@ MovieApp.API/appsettings.example.json dosyasını kopyalayarak appsettings.json 
   "AllowedHosts": "*"
 }
 ```
+
+
+
 ## Ekran Görüntüleri
 
 Projeyle ilgili görsellere `screenshots/` klasöründen erişebilirsiniz.  
