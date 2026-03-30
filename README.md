@@ -23,11 +23,11 @@ MovieApp, kullanıcıların filmleri görüntüleyebildiği, arama yapabildiği 
 
 Backend:
 
----
+
 cd MovieApp.API
 dotnet restore
 dotnet run
----
+
 Frontend:
 ---
 cd frontend
