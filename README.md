@@ -47,7 +47,7 @@ REACT_APP_BASE_URL=http://localhost:5xxx
 REACT_APP_API_URL ve REACT_APP_BASE_URL kendi ortamınıza göre ayarlayın.
 ```
 
-MovieApp.API/appsettings.example.json dosyasını kopyalayarak appsettings.json oluşturun:
+MovieApp.API/appsettings.example.json dosyasını kopyalayarak appsettings.json oluşturun ve anahtar atayın:
 ```bash
 
 {
@@ -64,4 +64,6 @@ MovieApp.API/appsettings.example.json dosyasını kopyalayarak appsettings.json 
   "AllowedHosts": "*"
 }
 ```
+## Ekran Görüntüleri
 
+Projeyle ilgili görsellere `screenshots/` klasöründen erişebilirsiniz.  
