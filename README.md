@@ -1,10 +1,10 @@
-#  MovieApp
+# MovieApp
 
 MovieApp, kullanıcıların filmleri görüntüleyebildiği, arama yapabildiği ve IMDb puanlarına göre sıralayabildiği modern bir film inceleme platformudur.  
 
 ---
 
-##  Özellikler
+## Özellikler
 
 - Tüm filmleri listeleme ve detaylarını görüntüleme
 - Tüm aktörleri listeleme ve detaylarını görüntüleme
@@ -19,30 +19,37 @@ MovieApp, kullanıcıların filmleri görüntüleyebildiği, arama yapabildiği 
 - Kolay deploy için hazır yapı
 
 ---
+
 ## Kurulum
 
-Backend:
+### Backend
 
-
+```bash
 cd MovieApp.API
 dotnet restore
 dotnet run
+```
+### Frontend
 
-Frontend:
----
+```bash
 cd frontend
 npm install
 npm start
----
+```
 
 ## Çevresel Ayarlar (Environment Variables)
 
 frontend/.env.example dosyasını kopyalayarak .env dosyasını oluşturun:
+```bash
+
 REACT_APP_API_URL=http://localhost:5xxx/api
 REACT_APP_BASE_URL=http://localhost:5xxx
 REACT_APP_API_URL ve REACT_APP_BASE_URL kendi ortamınıza göre ayarlayın.
+```
 
 MovieApp.API/appsettings.example.json dosyasını kopyalayarak appsettings.json oluşturun:
+```bash
+
 {
   "JwtSettings": {
     "SecretKey": "YOUR_SECRET_KEY_HERE",
@@ -56,3 +63,5 @@ MovieApp.API/appsettings.example.json dosyasını kopyalayarak appsettings.json 
   },
   "AllowedHosts": "*"
 }
+```
+
